@@ -7,6 +7,6 @@ By doing this they bet that the stock will not be X consecutive downward increme
 
 This program will test all the permutations of a Up (Bull), or Down (Bear) and  see which permutation will go bankrupt first. 
 
-The original ata was collected for Dukascopy Forex historical data. I calculated the "Bollinger Band" on it.
+The original data was collected for Dukascopy Forex historical data. I calculated the "Bollinger Band" on it.
 
 Currently the Data is Random 
